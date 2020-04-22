@@ -1,0 +1,1 @@
+This is Teszra's first git project!
